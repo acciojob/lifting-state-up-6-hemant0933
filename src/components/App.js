@@ -6,6 +6,7 @@ import Parent from "./Parent";
 const App = () => {
   return (
     <div>
+      {/* //added parent component */}
        <Parent/>
     </div>
   )
